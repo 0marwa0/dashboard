@@ -1,0 +1,38 @@
+ <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="26"
+                    height="26"
+                    viewBox="0 0 26 26"
+                  >
+                    <g
+                      id="Group_37679"
+                      data-name="Group 37679"
+                      transform="translate(-24.918 -0.072)"
+                    >
+                      <g
+                        id="Rectangle_6525"
+                        data-name="Rectangle 6525"
+                        transform="translate(24.918 0.072)"
+                        fill="none"
+                        stroke="#ebebeb"
+                        stroke-width="1"
+                      >
+                        <rect width="26" height="26" rx="6" stroke="none" />
+                        <rect
+                          x="0.5"
+                          y="0.5"
+                          width="25"
+                          height="25"
+                          rx="5.5"
+                          fill="none"
+                        />
+                      </g>
+                      <path
+                        id="solid_external-link-alt"
+                        data-name="solid external-link-alt"
+                        d="M11.383.474V3a.475.475,0,0,1-.81.335l-.706-.706L5.055,7.446a.474.474,0,0,1-.671,0L3.937,7a.474.474,0,0,1,0-.671L8.75,1.515,8.044.81A.475.475,0,0,1,8.379,0h2.529A.474.474,0,0,1,11.383.474ZM8.044,5.351l-.316.316A.474.474,0,0,0,7.589,6v2.85H1.265V2.529H6.482a.474.474,0,0,0,.335-.139l.316-.316a.474.474,0,0,0-.335-.81H.949A.949.949,0,0,0,0,2.213V9.169a.949.949,0,0,0,.949.949H7.9a.949.949,0,0,0,.949-.949V5.687A.474.474,0,0,0,8.044,5.351Z"
+                        transform="translate(32.97 7.972)"
+                        fill="#fff"
+                      />
+                    </g>
+                  </svg>

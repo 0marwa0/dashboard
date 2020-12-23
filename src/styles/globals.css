@@ -1,0 +1,104 @@
+* {
+  padding: 0;
+  margin: 0;
+
+  box-sizing: border-box;
+  font-family: Px-Grotesk !important;
+}
+.ResourcesIcon {
+  display: flex;
+  gap: 5px;
+}
+.ResourcesIcon .icon {
+  width: 25px;
+  height: 25px;
+  font-size: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--lightGray);
+}
+.items {
+  background-color: white;
+  border-radius: 7px;
+
+  display: flex;
+
+  flex-direction: column;
+}
+.items > div {
+  border-bottom: 1px solid var(--lightGray);
+}
+.items > div:last-child {
+  border-bottom: none;
+}
+.ant-table-column-sorters {
+  padding: 10px 0px !important;
+}
+.ant-table-cell {
+  padding: 5px 7px !important;
+}
+/* .ant-input:focus {
+  outline: 0 !important;
+  border: 0.5px solid var(--yellow) !important;
+  -webkit-box-shadow: 0 0 0 2px #eeeaaf !important;
+  box-shadow: 0 0 0 2px #eeeaaf !important;
+}
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: var(--yellow) !important;
+  border-color: var(--yellow) !important;
+}
+.ant-checkbox-wrapper:hover .ant-checkbox-inner,
+.ant-checkbox:hover .ant-checkbox-inner,
+.ant-checkbox-input:focus + .ant-checkbox-inner {
+  border: 1px solid var(--yellow) !important;
+}
+
+.ant-checkbox-wrapper,
+.ant-checkbox-inner,
+.ant-checkbox,
+.ant-checkbox-inner,
+.ant-checkbox-input:focus + .ant-checkbox-inner {
+  border-radius: 6px !important;
+  outline: 0 !important;
+  margin-left: 3px !important;
+}
+
+.ant-btn:hover,
+.ant-btn:focus {
+  color: var(--black);
+  background: #fff;
+  border-color: var(--yellow) !important;
+} */
+.ant-table-container {
+  border: 1px solid var(--lighterGray) !important;
+  border-radius: 10px 10px 0 0 !important;
+  border-bottom: none !important;
+}
+th:first-child {
+  border-radius: 10px 0 0 0 !important;
+}
+th:last-child {
+  border-radius: 0 10px 0 0 !important;
+}
+.ant-tag {
+  border: none !important;
+  border-radius: 6px !important;
+}
+.ant-tag-green {
+  color: var(--darkGreen) !important;
+  background: var(--LightGreen) !important;
+}
+.ant-tag-red {
+  color: var(--red) !important;
+  background: var(--lightRed) !important;
+}
+.ant-tag-gold {
+  color: var(--orange) !important;
+  background: var(--lightOrange) !important;
+}
+.ant-tag-blue {
+  color: var(--blue) !important;
+  background: var(--lightBlue) !important;
+}
